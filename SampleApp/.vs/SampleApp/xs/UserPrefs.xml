@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{89C14165-DD4D-4E1D-A8D7-731C16A83DEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp/Info.plist">
+    <Files>
+      <File FileName="SampleApp/packages.config" Line="1" Column="1" />
+      <File FileName="SampleApp/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleApp automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.954ED523-1D14-4F4D-9B9F-64EDAA4912CC" />
+</Properties>
